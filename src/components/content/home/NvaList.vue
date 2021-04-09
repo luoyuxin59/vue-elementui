@@ -56,7 +56,7 @@ export default {
             },
             {
               title: "Excel导入导出",
-              index: "excelImport",
+              index: "import",
             }
           ],
         },
